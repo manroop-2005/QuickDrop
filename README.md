@@ -94,4 +94,4 @@ A GitHub Actions workflow is set up at `.github/workflows/deploy.yml` to automat
 
 Designed and built with passion by **Manroop Singh**:
 - [Portfolio Website](https://portfolio-inky-eta-29.vercel.app/)
-- [aaryanmeena96@gmail.com](mailto:manroopsingh2005a@gmail.com)
+- [manroopsingh2005a@gmail.com](mailto:manroopsingh2005a@gmail.com)
