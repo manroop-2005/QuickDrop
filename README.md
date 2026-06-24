@@ -85,7 +85,7 @@ npm run dev
 ### GitHub Pages Deployment
 A GitHub Actions workflow is set up at `.github/workflows/deploy.yml` to automatically build and deploy the landing page website to GitHub Pages:
 
-- **Target URL**: `https://aaryan359.github.io/QuickDrop/`
+- **Target URL**: `https://github.com/manroop-2005/QuickDrop`
 - **Trigger**: Every push to the `main` or `master` branch builds the production Vite bundles and deploys them to the `github-pages` environment.
 
 ---
@@ -93,5 +93,5 @@ A GitHub Actions workflow is set up at `.github/workflows/deploy.yml` to automat
 ## Creator
 
 Designed and built with passion by **Aaryan**:
-- [Portfolio Website](https://aaryan359.github.io/portfolio/)
-- [aaryanmeena96@gmail.com](mailto:aaryanmeena96@gmail.com)
+- [Portfolio Website](https://portfolio-inky-eta-29.vercel.app/)
+- [aaryanmeena96@gmail.com](mailto:manroopsingh2005a@gmail.com)
